@@ -289,11 +289,23 @@ TIP-Project/
 
 ---
 
+## Day 16 – Firewall Rule Verification
+
+### Tasks Completed
+
+- Created firewall automation script
+- Verified iptables configuration
+- Executed firewall checks using Python
+- Validated INPUT, OUTPUT, and FORWARD chains
+
+### Deliverables
+
+- firewall_rules.py
+- Firewall verification output
+
+---
+
 ## Upcoming Tasks
-
-### Day 16
-
-* Firewall Automation Script Development
 
 ### Day 17
 
