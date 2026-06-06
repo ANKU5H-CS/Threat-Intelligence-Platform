@@ -1,10 +1,14 @@
 import os
 
-print("=" * 40)
+print("=" * 50)
 print(" Threat Intelligence Platform ")
-print(" Firewall Rule Verification ")
-print("=" * 40)
+print(" Firewall Rule Management ")
+print("=" * 50)
 
+print("\nCurrent Firewall Rules:\n")
 os.system("sudo iptables -L")
 
-print("\nFirewall rule verification completed.")
+print("\nDefault Policies:")
+os.system("sudo iptables -S")
+
+print("\nFirewall verification completed successfully.")

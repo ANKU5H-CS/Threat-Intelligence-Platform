@@ -304,12 +304,18 @@ TIP-Project/
 - Firewall verification output
 
 ---
+## Week 3
+
+### Day 17 - Firewall Rule Management
+
+- Verified current firewall rules using iptables.
+- Developed a Python script to display firewall configuration.
+- Checked INPUT, FORWARD, and OUTPUT chains.
+- Verified default firewall policies.
+- Confirmed firewall script placement in the project structure.
 
 ## Upcoming Tasks
 
-### Day 17
-
-* Firewall Rule Management
 
 ### Day 18
 
