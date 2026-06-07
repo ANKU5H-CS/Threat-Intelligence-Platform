@@ -314,12 +314,16 @@ TIP-Project/
 - Verified default firewall policies.
 - Confirmed firewall script placement in the project structure.
 
+### Day 18 - Firewall Monitoring and Logging
+
+- Created firewall_monitor.py script.
+- Verified current firewall status using iptables.
+- Implemented firewall monitoring module.
+- Created firewall monitoring log file.
+- Verified firewall scripts and project structure.
+
 ## Upcoming Tasks
 
-
-### Day 18
-
-* Firewall Testing and Validation
 
 ### Day 19
 
