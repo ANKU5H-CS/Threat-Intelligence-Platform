@@ -322,12 +322,16 @@ TIP-Project/
 - Created firewall monitoring log file.
 - Verified firewall scripts and project structure.
 
+### Day 19 - Threat Alert System
+
+- Created Threat Alert Module.
+- Generated alerts for High and Critical threats.
+- Created threat_alert.log.
+- Verified automation scripts.
+- Improved threat monitoring workflow.
+
 ## Upcoming Tasks
 
-
-### Day 19
-
-* Automatic IP Blocking
 
 ### Day 20
 
